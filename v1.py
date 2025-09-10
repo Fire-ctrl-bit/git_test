@@ -1,1 +1,6 @@
 print(123)
+print("Hello,world")
+print(123+456)
+print("Hello,Python")
+print(123+456)
+print("Hello,Python")
