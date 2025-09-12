@@ -27,3 +27,8 @@ print(dict1)
 # 集合
 set1 = {1,2,3,4,5}
 print(set1)
+# python基础语法讲解
+a = 1
+b = 2
+print(a+b)
+
