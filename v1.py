@@ -66,3 +66,7 @@ class Person:
     def print_info(self):
         print("name is " + self.name)
         print("age is " + str(self.age))
+    def print_hello(self):
+        print("hello,world")
+        print("my name is " + self.name)
+
