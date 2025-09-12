@@ -9,3 +9,8 @@ for i in range(1):
 print("what is your name?")
 name = input()
 print("your name is " + name)
+# python复数案例
+a = 1 + 2j
+print(a)
+print(a.real)
+print(a.imag)
