@@ -1,6 +1,6 @@
 print(123)
 print("Hello,world")
 print(123+456)
-print("Hello,Python344224")
+print("Hello,Python")
 print(123+456)
-print("Hello,Python213132")
+print("Hello,Python")
