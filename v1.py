@@ -14,3 +14,16 @@ a = 1 + 2j
 print(a)
 print(a.real)
 print(a.imag)
+# python特殊数据类型
+# 列表
+list1 = [1,2,3,4,5]
+print(list1)
+# 元组
+tuple1 = (1,2,3,4,5)
+print(tuple1)
+# 字典
+dict1 = {"name":"张三","age":18}
+print(dict1)
+# 集合
+set1 = {1,2,3,4,5}
+print(set1)
