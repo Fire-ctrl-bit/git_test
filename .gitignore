@@ -1,0 +1,43 @@
+# Git 学习用忽略文件配置
+
+# 临时文件 (Temporary files)
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# 日志文件 (Log files)
+*.log
+logs/
+
+# 操作系统生成的文件 (OS generated files)
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE 文件 (IDE files)
+.vscode/
+.idea/
+*.iml
+
+# 依赖包目录 (Dependencies)
+node_modules/
+venv/
+env/
+
+# 构建输出 (Build output)
+dist/
+build/
+*.exe
+*.dll
+*.so
+
+# 配置文件中的敏感信息 (Sensitive config files)
+config/secrets.json
+.env.local
+*.key

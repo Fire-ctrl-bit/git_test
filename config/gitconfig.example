@@ -1,0 +1,32 @@
+# Git 配置示例文件
+# Git Configuration Example
+
+[user]
+    # 配置用户信息 (Configure user information)
+    name = Your Name
+    email = your.email@example.com
+
+[core]
+    # 核心配置 (Core configuration)
+    editor = vim
+    autocrlf = input
+    
+[alias]
+    # 常用别名 (Useful aliases)
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --all
+    
+[color]
+    # 颜色配置 (Color configuration)
+    ui = auto
+    
+[push]
+    # 推送配置 (Push configuration)
+    default = simple
+    
+[pull]
+    # 拉取配置 (Pull configuration)
+    rebase = false
