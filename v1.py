@@ -46,3 +46,20 @@ print(a%b)
 # 位运算符
 # 成员运算符
 # 身份运算符
+# python流程控制
+# 循环
+for i in range(5):
+    print(i)
+# 跳转
+while True:
+    print("hello,world")
+    break
+# python函数
+def print_hello():
+    print("hello,world")
+print_hello()
+# python类
+class Person:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
