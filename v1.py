@@ -71,3 +71,6 @@ class Person:
         print("my name is " + self.name)
 
 person1 = Person("张三",18)
+person1.print_info()
+person1.print_info()
+person1.print_hello()
