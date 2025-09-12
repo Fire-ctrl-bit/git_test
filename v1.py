@@ -74,3 +74,11 @@ person1 = Person("张三",18)
 person1.print_info()
 person1.print_info()
 person1.print_hello()
+class Student(Person):
+    def __init__(self,name,age,grade):
+        super().__init__(name,age)
+        self.grade = grade
+    def print_grade(self):
+        print("grade is " + str(self.grade))
+student1 = Student("张三",18,1)
+student1.print_grade()
