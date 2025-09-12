@@ -73,3 +73,19 @@ class Person:
 person1 = Person("张三",18)
 person1.print_info()
 person1.print_hello()
+    # python异常处理
+try:
+    print(1/0)
+except Exception as e:
+    print(e)
+# python模块
+import math
+print(math.sqrt(16))
+# python包
+import sys
+print(sys.path)
+# python包管理
+# python包管理工具 pip
+# python包管理工具 pip3
+# python包管理工具 pip3 install requests
+# python包管理工具 pip3 uninstall requests
