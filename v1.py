@@ -91,3 +91,8 @@ print(sys.path)
 # python包管理工具 pip3 uninstall requests
 person1.print_info()
 person1.print_hello()
+
+class Person:
+    def __init__(self,name,age):
+        self.name = name
+        self.age = age
