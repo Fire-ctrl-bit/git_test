@@ -85,3 +85,4 @@ student1.print_grade()
 student1.print_info()
 student1.print_hello()
     # 多态
+print(123)
