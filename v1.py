@@ -69,4 +69,4 @@ class Person:
     def print_hello(self):
         print("hello,world")
         print("my name is " + self.name)
-
+print(123)
