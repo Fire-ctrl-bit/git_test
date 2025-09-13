@@ -86,4 +86,8 @@ student1.print_info()
 student1.print_hello()
     # 多态
 print(123)
+
 print("Hello,world1111")
+
+print("Hello,Python")
+
