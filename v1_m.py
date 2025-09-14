@@ -52,11 +52,11 @@ for i in range(5):
     print(i)
 # 跳转
 while True:
-    print("hello,world")
+    print("hello,world111")
     break
 # python函数
 def print_hello():
-    print("hello,world")
+    print("hello,worldfsf")
 print_hello()
 # python类
 class Person:

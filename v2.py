@@ -8,7 +8,7 @@ for i in range(1):
     print(i)
 print("what is your name?")
 name = input()
-print("your name is " + name)
+print("your name is3323 " + name)
 # python复数案例
 a = 1 + 2j
 print(a)
