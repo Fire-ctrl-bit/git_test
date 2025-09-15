@@ -99,3 +99,6 @@ class Person:
         print("第一次")
         print("第二次")
         print("第三次")
+        print("第四次")
+        print("第五次")
+        print("第六次")
