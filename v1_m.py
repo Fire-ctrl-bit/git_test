@@ -96,6 +96,9 @@ class Person:
     def __init__(self,name,age):
         self.name = name
         self.age = age
+
+        print("hello,world")
+
         self.gender = gender
     def print_info(self):
         print("name is " + self.name)
